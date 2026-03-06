@@ -1,7 +1,17 @@
-# 👋 Hi, I'm Amin Ahmed  
 
-## 🚀 Data Engineer Enthusiast  
+<h1 align="center">Hi 👋, I'm Amin Ahmed</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2BF&size=45&center=true&vCenter=true&height=60&width=600&lines=Data+Engineer+Enthusiast;SQL+%7C+Python+%7C+Azure;Building+Data+Pipelines;Turning+Data+Into+Insights" alt="Typing Animation"/>
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aminah7med&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/35a5df46f5fff3a62efed1b577361217/27834cce08aba4ec-7f/s400x600/41cf935c17dfbe5cf72d19e05c03f7eb3a7f4397.gif" width="350">
+</p>
 🎓 Information Technology & Computer Science Student  
 Sinai University — Al-Arish, Egypt (2023–2027)  
 
@@ -91,13 +101,7 @@ Integrated ultrasonic & gas sensors — **A+ Grade**
 ![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded-ATmega32A-green?style=for-the-badge)
 
----
 
-## 📊 GitHub Stats  
-
-![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminah7med&show_icons=true&theme=tokyonight)
-
----
 
 ## 🔥 Contribution Streak  
 
