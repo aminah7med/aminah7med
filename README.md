@@ -137,9 +137,3 @@ Integrated ultrasonic & gas sensors — **A+ Grade**
 ![GitHub Streak](https://streak-stats.demolab.com?user=aminah7med&theme=tokyonight)
 
 ---
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminah7med)
-
-[![Email](https://img.shields.io/badge/Email-a.ahmed2585@su.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.ahmed2585@su.edu.eg)
