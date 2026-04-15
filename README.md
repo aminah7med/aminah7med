@@ -23,13 +23,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Instagram-aminah7med-purple?style=for-the-badge&logo=instagram">
-
-<br>
-
-<img src="https://img.shields.io/badge/Facebook-aminah7med-blue?style=for-the-badge&logo=facebook">
-
-<br>
 
 <a href="https://aminah7med.github.io/Portfolio/#home">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-green?style=for-the-badge&logo=google-chrome">
