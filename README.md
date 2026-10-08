@@ -114,15 +114,19 @@ Embedded system using ATmega32A with ultrasonic & gas sensors — **A+ Grade**
 
 ---
 
-## 🔥 GitHub Contribution Streak & Stats
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aminah7med&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aminah7med&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminah7med&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aminah7med&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" width="98%" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
