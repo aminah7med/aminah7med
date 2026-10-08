@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2BF&size=40&center=true&vCenter=true&height=70&width=700&lines=Hi+👋%2C+I'm+Amin+Ahmed;Data+Engineer+Enthusiast;SQL+%7C+Python+%7C+Azure;Building+Scalable+Data+Pipelines;Turning+Data+Into+Insights" alt="Typing Animation"/>
-</div>
-
 <p align="center">
-  <img src="https://64.media.tumblr.com/35a5df46f5fff3a62efed1b577361217/27834cce08aba4ec-7f/s400x600/41cf935c17dfbe5cf72d19e05c03f7eb3a7f4397.gif" width="320">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Amin%20Ahmed&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Engineer&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 <h3 align="center">📬 Contact Me</h3>
@@ -29,32 +25,37 @@
 🎓 **Information Technology & Computer Science Student** (Final Year)  
 Sinai University — Al-Arish, Egypt (2023–2027)  
 
-🚀 **Alumnus of Digital Egypt Pioneers Initiative (DEPI)**  
-Microsoft Data Engineering Track (Completed successfully with certifications)  
+🚀 **AI & Data Engineering Professional & Alumnus**  
 
 ---
 
 ## 🔥 About Me  
 
-I design and build **end-to-end data pipelines, ETL workflows, and machine learning systems** using Python and SQL.  
+I design and build **end-to-end data pipelines, ETL workflows, Big Data analytics, and machine learning systems** using Python, SQL, and cloud services.  
 
-I focus on transforming raw data into structured, production-ready systems using scalable engineering principles.
+I focus on transforming raw data into structured, production-ready systems using scalable engineering principles and modern AI tools.
 
 ### 🎯 Core Interests
 
 - Data Engineering & Pipeline Architecture  
+- Big Data Analytics & Distributed Computing  
 - Machine Learning & Time-Series Forecasting  
-- Cloud & Big Data Fundamentals  
-- Production-Oriented System Design  
+- Cloud & Production-Oriented System Design  
 
 ---
 
-## 🏗 Currently Working On  
+## 🏗 Experience & Internships  
 
-- Building scalable **ETL pipelines** with Python & SQL  
-- Orchestrating workflows using **Apache Airflow**  
-- Developing ML models with **XGBoost & feature engineering**  
-- Exploring **Microsoft Azure Data Services**  
+- **GCI World – Data Science Program | Matsuo-Iwasawa Lab, U-Tokyo** (Apr 2026 – Aug 2026)  
+  * Completed the Global Consumer Intelligence Program focused on Data Science, Python, NumPy, Pandas, Matplotlib, and Machine Learning fundamentals.  
+- **Big Data Analytics | National Telecommunication Institute (NTI)** (Jul 2026 – Aug 2026)  
+  * Completed a 120-hour Big Data Analysis training program with a score of 92%. Gained hands-on experience with Hadoop, HDFS, MapReduce, Spark, Hive, Kafka, Flink, and ETL concepts.  
+- **Entrepreneurship Intern | TIEC** (Jul 2026 – Aug 2026)  
+  * Led Group 5 in the InnovEgypt Summer 2026 Program, utilizing Design Thinking, innovation methodologies, and business modeling.  
+- **Information Technology Intern | GUPCO (Gulf of Suez Petroleum)** (Jun 2026 – Jul 2026)  
+  * Gained hands-on experience in IT operations, system administration, enterprise workflows, and network operations in the oil & gas sector.  
+- **Microsoft Data Engineer | Digital Egypt Pioneers Initiative (DEPI)** (Nov 2025 – Jul 2026)  
+  * Completed intensive data engineering training, building modern data solutions, ETL pipelines, and leveraging Azure services and SQL Server.  
 
 ---
 
@@ -63,18 +64,17 @@ I focus on transforming raw data into structured, production-ready systems using
 ### 💻 Programming  
 Python • C++ • C# • SQL • Embedded C  
 
-### 🗄 Databases  
-SQL Server • PostgreSQL • MySQL  
-Relational Design • Database Normalization  
+### 🗄 Databases & Big Data  
+SQL Server • PostgreSQL • MySQL • Hadoop • Spark • Hive • Kafka • Flink  
 
-### ⚙ Data Engineering  
-ETL • Data Pipelines • Apache Airflow • Big Data Concepts  
+### ⚙ Data Engineering & Cloud  
+ETL • Data Pipelines • Apache Airflow • Microsoft Azure • Docker  
 
-### 🤖 Machine Learning  
+### 🤖 Machine Learning & AI  
 XGBoost • Time-Series Forecasting • Feature Engineering • Model Evaluation  
 
-### ☁ Tools & Cloud  
-Microsoft Azure • Docker • Git • GitHub • Visual Studio  
+### ☁ Tools & Version Control  
+Git • GitHub • Visual Studio • Design Thinking  
 
 ---
 
@@ -93,7 +93,9 @@ Embedded system using ATmega32A with ultrasonic & gas sensors — **A+ Grade**
 
 ## 📜 Certifications  
 
-- **Digital Egypt Pioneers Initiative (DEPI)** — Microsoft Data Engineer (Completed)  
+- **GCI World (U-Tokyo)** — Data Science & Consumer Intelligence Program  
+- **NTI** — Big Data Analytics (Score: 92%)  
+- **Digital Egypt Pioneers Initiative (DEPI)** — Microsoft Data Engineer  
 - **NVIDIA** — Building LLM Applications  
 - **MaharaTech / ITI** — Generative AI  
 - **DataCamp** — SQL & Data Engineering  
@@ -104,13 +106,13 @@ Embedded system using ATmega32A with ultrasonic & gas sensors — **A+ Grade**
 
 [![Tech Stack](https://skillicons.dev/icons?i=python,cpp,c,cs,postgres,mysql,azure,docker,git,github,visualstudio)](https://skillicons.dev)
 
-### ⚙ Data Engineering & Orchestration  
+### ⚙ Data Engineering & Technologies  
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded-ATmega32A-green?style=for-the-badge)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ---
 
@@ -127,6 +129,7 @@ Embedded system using ATmega32A with ultrasonic & gas sensors — **A+ Grade**
 
 ---
 
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -135,3 +138,9 @@ Embedded system using ATmega32A with ultrasonic & gas sensors — **A+ Grade**
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aminah7med/aminah7med/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&animation=fadeIn" width="100%" />
+</p>
