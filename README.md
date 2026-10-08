@@ -1,44 +1,36 @@
-
-<h1 align="center">Hi 👋, I'm Amin Ahmed</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2BF&size=45&center=true&vCenter=true&height=60&width=600&lines=Data+Engineer+Enthusiast;SQL+%7C+Python+%7C+Azure;Building+Data+Pipelines;Turning+Data+Into+Insights" alt="Typing Animation"/>
- 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2BF&size=40&center=true&vCenter=true&height=70&width=700&lines=Hi+👋%2C+I'm+Amin+Ahmed;Data+Engineer+Enthusiast;SQL+%7C+Python+%7C+Azure;Building+Scalable+Data+Pipelines;Turning+Data+Into+Insights" alt="Typing Animation"/>
+</div>
+
 <p align="center">
-  <img src="https://64.media.tumblr.com/35a5df46f5fff3a62efed1b577361217/27834cce08aba4ec-7f/s400x600/41cf935c17dfbe5cf72d19e05c03f7eb3a7f4397.gif" width="350">
+  <img src="https://64.media.tumblr.com/35a5df46f5fff3a62efed1b577361217/27834cce08aba4ec-7f/s400x600/41cf935c17dfbe5cf72d19e05c03f7eb3a7f4397.gif" width="320">
 </p>
- <h3 align="center">📬 Contact Me</h3>
+
+<h3 align="center">📬 Contact Me</h3>
 
 <p align="center">
-
 <a href="mailto:a.ahmed2585@su.edu.eg">
 <img src="https://img.shields.io/badge/Email-a.ahmed2585@su.edu.eg-blue?style=for-the-badge&logo=gmail">
 </a>
-
-<br>
-
 <a href="https://www.linkedin.com/in/aminah7med">
 <img src="https://img.shields.io/badge/LinkedIn-aminah7med-blue?style=for-the-badge&logo=linkedin">
 </a>
-
-<br>
-
-
 <a href="https://aminah7med.github.io/Portfolio/#home">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-green?style=for-the-badge&logo=google-chrome">
 </a>
 </p>
-</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aminah7med&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+---
 
-🎓 Information Technology & Computer Science Student  
+🎓 **Information Technology & Computer Science Student** (Final Year)  
 Sinai University — Al-Arish, Egypt (2023–2027)  
 
-Currently enrolled in the **Digital Egypt Pioneers Initiative (DEPI)**  
-Microsoft Data Engineering Track  
+🚀 **Alumnus of Digital Egypt Pioneers Initiative (DEPI)**  
+Microsoft Data Engineering Track (Completed successfully with certifications)  
 
 ---
 
@@ -89,25 +81,22 @@ Microsoft Azure • Docker • Git • GitHub • Visual Studio
 ## 🚀 Featured Projects  
 
 ### 🌦 Weather Prediction Pipeline  
-End-to-end ML + Airflow pipeline with XGBoost regression  
-**MAE: 1.83°C**
+End-to-end ML + Airflow pipeline with XGBoost regression — **MAE: 1.83°C**
 
 ### ⚖ Law Office Management System  
-Full-stack WinForms + SQL Server desktop system  
-Implemented normalized relational database & advanced filtering  
+Full-stack WinForms + SQL Server desktop system with normalized relational database  
 
 ### 🚗 Smart Garage System  
-Embedded system using ATmega32A  
-Integrated ultrasonic & gas sensors — **A+ Grade**
+Embedded system using ATmega32A with ultrasonic & gas sensors — **A+ Grade**
 
 ---
 
 ## 📜 Certifications  
 
-- Digital Egypt Pioneers Initiative (DEPI) — Microsoft Data Engineer (In Progress)  
-- NVIDIA — Building LLM Applications  
-- MaharaTech / ITI — Generative AI  
-- DataCamp — SQL & Data Engineering  
+- **Digital Egypt Pioneers Initiative (DEPI)** — Microsoft Data Engineer (Completed)  
+- **NVIDIA** — Building LLM Applications  
+- **MaharaTech / ITI** — Generative AI  
+- **DataCamp** — SQL & Data Engineering  
 
 ---
 
@@ -123,10 +112,22 @@ Integrated ultrasonic & gas sensors — **A+ Grade**
 ![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded-ATmega32A-green?style=for-the-badge)
 
+---
 
+## 🔥 GitHub Contribution Streak & Stats
 
-## 🔥 Contribution Streak  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aminah7med&theme=tokyonight)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aminah7med&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+</div>
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aminah7med/aminah7med/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aminah7med/aminah7med/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aminah7med/aminah7med/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
