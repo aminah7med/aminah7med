@@ -1,21 +1,24 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amin%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Engineer&descSize=24&descAlignY=60&animation=fadeIn" width="100%" alt="Amin Ahmed - AI and Data Engineer" />
-
+<p align="center">
+  <img src="./assets/I%20Cant%20Hear%20You%20Now%20What%20GIF.gif" width="700" alt="Neymar Skills GIF">
+</p>
 <br/>
 
-<a href="mailto:a.ahmed2585@su.edu.eg">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a><br/>
-<a href="https://www.linkedin.com/in/aminah7med">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a><br/>
-<a href="https://aminah7med.github.io/Portfolio/#home">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+<p align="center">
+  <a href="mailto:a.ahmed2585@su.edu.eg">
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aminah7med">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A9BED" alt="LinkedIn" />
+  </a>
+  <a href="https://aminah7med.github.io/Portfolio/#home">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=3FB950" alt="Portfolio" />
+  </a>
+</p>
 
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=aminah7med&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
