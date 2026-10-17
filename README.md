@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amin%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Engineer&descSize=24&descAlignY=60&animation=fadeIn" width="100%" alt="Amin Ahmed - AI and Data Engineer" />
 <p align="center">
-  <img src="./assets/I%20Cant%20Hear%20You%20Now%20What%20GIF.gif" width="700" alt="Neymar Skills GIF">
+  <img src="./assets/I%20Cant%20Hear%20You%20Now%20What%20GIF.gif" width="700" alt="CR7">
 </p>
 <p align="center">
   <a href="mailto:a.ahmed2585@su.edu.eg">
