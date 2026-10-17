@@ -4,9 +4,6 @@
 <p align="center">
   <img src="./assets/I%20Cant%20Hear%20You%20Now%20What%20GIF.gif" width="700" alt="Neymar Skills GIF">
 </p>
-<br/>
-
-
 <p align="center">
   <a href="mailto:a.ahmed2585@su.edu.eg">
     <img src="https://img.shields.io/badge/✉_EMAIL-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="Email" />
@@ -14,7 +11,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/aminah7med">
     <img src="https://img.shields.io/badge/↗_LINKEDIN-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="LinkedIn" />
-  </a><br/>
+  </a><br/><br/>
   &nbsp;
   <a href="https://aminah7med.github.io/Portfolio/#home">
     <img src="https://img.shields.io/badge/◉_PORTFOLIO-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="Portfolio" />
