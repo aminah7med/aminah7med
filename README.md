@@ -19,7 +19,10 @@
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=aminah7med&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aminah7med&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 </div>
 
