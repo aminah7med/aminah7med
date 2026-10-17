@@ -6,19 +6,21 @@
 </p>
 <br/>
 
+
 <p align="center">
   <a href="mailto:a.ahmed2585@su.edu.eg">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/✉_EMAIL-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aminah7med">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A9BED" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/↗_LINKEDIN-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="LinkedIn" />
+  </a><br/>
+  &nbsp;
   <a href="https://aminah7med.github.io/Portfolio/#home">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=3FB950" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/◉_PORTFOLIO-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="Portfolio" />
   </a>
 </p>
 
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=aminah7med&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
