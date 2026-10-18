@@ -18,13 +18,8 @@
   </a>
 </p>
 
-
-
-
 <p align="center">
-  <a href="https://github.com/aminah7med">
-    <img src="https://komarev.com/ghpvc/?username=aminah7med&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=aminah7med&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 </div>
