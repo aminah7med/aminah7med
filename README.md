@@ -20,8 +20,9 @@
 
 
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminah7med&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aminah7med&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
