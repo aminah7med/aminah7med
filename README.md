@@ -22,7 +22,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminah7med&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/aminah7med">
+    <img src="https://komarev.com/ghpvc/?username=aminah7med&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
 
 </div>
